@@ -1,0 +1,36 @@
+{
+ "cards": [
+  {
+   "card": "Vehicle"
+  }
+ ],
+ "charts": [
+  {
+   "width": "Half"
+  },
+  {
+   "chart": "Projects",
+   "width": "Half"
+  },
+  {
+   "chart": "my charts",
+   "width": "Half"
+  },
+  {
+   "chart": "hello",
+   "width": "Half"
+  }
+ ],
+ "creation": "2024-06-06 12:02:11.695662",
+ "dashboard_name": "Site",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2024-06-21 21:30:49.916478",
+ "modified_by": "Administrator",
+ "module": "HRC Infra",
+ "name": "Site",
+ "owner": "Administrator"
+}

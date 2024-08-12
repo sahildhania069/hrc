@@ -1,0 +1,31 @@
+{
+ "attach_print": 0,
+ "channel": "System Notification",
+ "condition": "",
+ "creation": "2024-06-06 10:40:41.103683",
+ "date_changed": "end_date",
+ "days_in_advance": 1,
+ "docstatus": 0,
+ "doctype": "Notification",
+ "document_type": "Vehicle",
+ "enabled": 1,
+ "event": "Days Before",
+ "idx": 0,
+ "is_standard": 1,
+ "message": "<p>Reminder: The insurance for the vehicle with license plate  is expiring on </p>\n<p>Please ensure to renew it before the expiry date.</p>\n<p>Thank you.</p>\n\n",
+ "message_type": "HTML",
+ "modified": "2024-06-13 14:13:41.686233",
+ "modified_by": "Administrator",
+ "module": "HRC Infra",
+ "name": "insaurance expiring",
+ "owner": "Administrator",
+ "recipients": [
+  {
+   "receiver_by_document_field": "",
+   "receiver_by_role": "Accounts Manager"
+  }
+ ],
+ "send_system_notification": 0,
+ "send_to_all_assignees": 0,
+ "subject": " {{doc.model}}model"
+}
